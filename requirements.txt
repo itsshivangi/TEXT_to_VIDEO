@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+diffusers
+transformers
+accelerate
+huggingface_hub
+psutil
+sentencepiece
+protobuf
+safetensors
+einops
